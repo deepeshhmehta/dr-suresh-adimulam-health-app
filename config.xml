@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0" id="com.drsuresh.patient" version="1.0.0">
  
-    <name>Dr. Dr Adims Rheumatology Clinic</name>
+    <name>Dr Adims Rheumatology Clinic</name>
     <preference name="orientation" value="default" />
     <preference name="fullscreen" value="false" />
 	<preference name="SplashScreen" value="splash" />
