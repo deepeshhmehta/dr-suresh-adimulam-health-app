@@ -11,6 +11,14 @@ angular.module('your_app_name.filters', [])
                 return Date.parse(value);
             };
         })
+        .filter('tolowercase',function(){
+            return function(input,scope){
+                if(input != null){
+                    input = input.toLowerCase();
+                }
+                return input;
+            }
+        })
         .filter('capitalize', function () {
             return function (input, scope) {
                 if (input != null)
