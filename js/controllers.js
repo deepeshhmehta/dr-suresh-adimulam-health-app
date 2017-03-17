@@ -1896,6 +1896,8 @@ angular.module('PasswordConfirm', []).directive('changePasswordC', function () {
                 }).then(function successCallback(response) {                    
                     if(2575 == window.localStorage.getItem('id') && response.data == 1){                        
                         jQuery(".ordercart").show();
+                    }else{
+                        jQuery(".ordercart").hide();
                     }
                 });                
           
