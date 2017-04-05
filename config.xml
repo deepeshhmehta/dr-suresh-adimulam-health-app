@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0" id="com.drsuresh.patient" version="1.0.0">
  
-    <name>Dr Adim's Rheumatology Clinic</name>
+    <name>Dr. Adim's Rheumatology Clinic</name>
     <preference name="orientation" value="default" />
     <preference name="fullscreen" value="false" />
 	<preference name="SplashScreen" value="splash" />
@@ -10,7 +10,7 @@
     <gap:platform name="ios" />
     <gap:platform name="android" />
     <description>
-      Dr Adim's Rheumatology Clinic
+      Dr. Adim's Rheumatology Clinic
     </description> 
     <author href="http://www.arth.tech" email="support@arth.tech">
         Arth Tech
